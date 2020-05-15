@@ -1,0 +1,31 @@
+-----------------------------------------
+Quadcept NCDrill File Report
+-----------------------------------------
+
+NCDrill File Report For : E-Paper ESP-32 Driver Board ver0.9\EPaper-ESP32-20191031(修正)
+-----------------------------------------
+EPaper-ESP32-20191031(修正)_NCDrill.drl
+-----------------------------------------
+
+Format : Excellon
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+OutputType[SlotDrill] : ThreePoint
+Prefix : 
+
+----------------------------------------------------------------------------------
+Tool  HoleType  Size             Tolerance  Angle  Layer        Plated  Quantity  
+----------------------------------------------------------------------------------
+T01   Round     0.3000           +-0.0000   0      Top->Bottom  True    67        
+T02   Round     0.5000           +-0.0000   0      Top->Bottom  True    3         
+T03   Round     0.5000           +-0.0500   0      Top->Bottom  True    2         
+T04   Slot      0.6500 * 1.2000  +-0.0500   0      Top->Bottom  False   4         
+T05   Round     0.7000           +-0.0000   0      Top->Bottom  True    6         
+T06   Round     0.7000           +0.1000    0      Top->Bottom  False   2         
+T07   Round     0.8000           +0.1000    0      Top->Bottom  False   2         
+T08   Round     1.0000           +-0.0500   0      Top->Bottom  True    10        
+T09   Round     3.0000           +0.1000    0      Top->Bottom  True    8         

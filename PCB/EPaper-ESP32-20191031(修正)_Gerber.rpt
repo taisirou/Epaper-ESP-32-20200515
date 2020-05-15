@@ -1,0 +1,250 @@
+-----------------------------------------
+Quadcept Gerber File Report
+-----------------------------------------
+
+Gerber File Report For : E-Paper ESP-32 Driver Board ver0.9\EPaper-ESP32-20191031(修正)
+-----------------------------------------
+EPaper-ESP32-20191031(修正)_TopPattern.gbr
+EPaper-ESP32-20191031(修正)_TopSilk.gbr
+EPaper-ESP32-20191031(修正)_TopSolder.gbr
+EPaper-ESP32-20191031(修正)_TopPaste.gbr
+EPaper-ESP32-20191031(修正)_BottomPattern.gbr
+EPaper-ESP32-20191031(修正)_BottomSilk.gbr
+EPaper-ESP32-20191031(修正)_BottomSolder.gbr
+EPaper-ESP32-20191031(修正)_BottomPaste.gbr
+EPaper-ESP32-20191031(修正)_Board.gbr
+-----------------------------------------
+
+Format : RS-274X
+Unit : mm
+Coordinate : Absolute
+DigitOfInt : 4
+DigitOfFloat : 4
+ZeroSuppression : Leading
+Offset : (0,0)
+Prefix : 
+
+-----------------------------------------
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_TopPattern.gbr
+
+D10 Circle 0.0
+D11 Circle 0.1
+D12 Circle 0.15
+D13 Circle 0.2
+D14 Circle 0.25
+D15 Circle 0.3
+D16 Circle 0.5
+D17 Circle 0.6
+D18 Circle 0.75
+D19 Circle 1.0
+D20 Circle 2.0
+D21 Circle 5.0
+D22 Rectangle 0.5 X 0.5
+D23 Rectangle 2.0 X 2.0
+D24 Rectangle 2.5 X 2.5
+D25 Rectangle 4.0 X 4.0
+D27 Rectangle 0.2 X 1.0
+D28 Rectangle 0.25 X 0.75
+D29 Rectangle 0.3 X 0.8
+D30 Rectangle 0.3 X 1.25
+D31 Rectangle 0.4 X 2.15
+D32 Rectangle 0.45 X 0.7
+D33 Rectangle 0.5 X 1.3
+D34 Rectangle 0.55 X 0.4
+D35 Rectangle 0.559 X 0.648
+D36 Rectangle 0.6 X 1.0
+D37 Rectangle 0.6 X 1.0
+D38 Rectangle 0.6 X 1.2
+D39 Rectangle 0.75 X 0.25
+D40 Rectangle 0.8 X 0.3
+D41 Rectangle 0.8 X 0.9
+D42 Rectangle 0.9 X 0.8
+D43 Rectangle 0.9 X 0.8
+D44 Rectangle 0.9 X 0.8
+D45 Rectangle 0.9 X 1.4
+D46 Rectangle 0.9 X 1.5
+D47 Rectangle 0.91 X 1.22
+D48 Rectangle 1.0 X 0.2
+D49 Rectangle 1.0 X 1.25
+D50 Rectangle 1.22 X 0.91
+D51 Rectangle 1.25 X 0.45
+D52 Rectangle 1.25 X 0.45
+D53 Rectangle 1.25 X 1.0
+D54 Rectangle 1.4 X 0.9
+D55 Rectangle 1.45 X 0.65
+D56 Rectangle 1.45 X 0.65
+D57 Rectangle 1.5 X 0.9
+D58 Rectangle 1.6 X 2.5
+D59 Rectangle 1.6 X 4.0
+D60 Rectangle 1.6 X 4.0
+D61 Rectangle 1.7 X 1.2
+D62 Rectangle 2.0 X 2.5
+D63 Rectangle 2.6 X 1.4
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_TopSilk.gbr
+
+D10 Circle 0.0
+D11 Circle 0.1
+D12 Circle 0.15
+D13 Circle 0.2
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_TopSolder.gbr
+
+D10 Circle 0.0
+D11 Circle 0.2
+D12 Circle 0.7
+D13 Circle 0.85
+D14 Circle 1.1
+D15 Circle 2.2
+D16 Circle 5.0
+D17 Rectangle 0.6 X 0.6
+D18 Rectangle 2.1 X 2.1
+D19 Rectangle 2.6 X 2.6
+D20 Rectangle 4.1 X 4.1
+D22 Rectangle 0.3 X 1.1
+D23 Rectangle 0.35 X 0.85
+D24 Rectangle 0.4 X 0.9
+D25 Rectangle 0.4 X 1.35
+D26 Rectangle 0.5 X 2.25
+D27 Rectangle 0.55 X 0.8
+D28 Rectangle 0.6 X 1.4
+D29 Rectangle 0.65 X 0.5
+D30 Rectangle 0.659 X 0.748
+D31 Rectangle 0.7 X 1.1
+D32 Rectangle 0.7 X 1.1
+D33 Rectangle 0.7 X 1.3
+D34 Rectangle 0.85 X 0.35
+D35 Rectangle 0.9 X 0.4
+D36 Rectangle 1.0 X 1.1
+D37 Rectangle 1.0 X 1.5
+D38 Rectangle 1.0 X 1.6
+D39 Rectangle 1.01 X 1.32
+D40 Rectangle 1.1 X 0.3
+D41 Rectangle 1.1 X 1.0
+D42 Rectangle 1.1 X 1.0
+D43 Rectangle 1.1 X 1.0
+D44 Rectangle 1.2 X 1.45
+D45 Rectangle 1.32 X 1.01
+D46 Rectangle 1.35 X 0.55
+D47 Rectangle 1.35 X 0.55
+D48 Rectangle 1.45 X 1.2
+D49 Rectangle 1.5 X 1.0
+D50 Rectangle 1.6 X 1.0
+D51 Rectangle 1.6 X 2.5
+D52 Rectangle 1.65 X 0.85
+D53 Rectangle 1.65 X 0.85
+D54 Rectangle 1.8 X 4.2
+D55 Rectangle 1.8 X 4.2
+D56 Rectangle 1.9 X 1.4
+D57 Rectangle 2.1 X 2.6
+D58 Rectangle 2.8 X 1.6
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_TopPaste.gbr
+
+D10 Circle 0.0
+D11 Circle 0.2
+D12 Rectangle 0.5 X 0.5
+D13 Rectangle 2.0 X 2.0
+D14 Rectangle 2.5 X 2.5
+D15 Rectangle 4.0 X 4.0
+D16 Rectangle 0.2 X 1.0
+D17 Rectangle 0.25 X 0.75
+D18 Rectangle 0.3 X 0.8
+D19 Rectangle 0.3 X 1.25
+D20 Rectangle 0.4 X 2.15
+D21 Rectangle 0.45 X 0.7
+D22 Rectangle 0.5 X 1.3
+D23 Rectangle 0.55 X 0.4
+D24 Rectangle 0.559 X 0.648
+D25 Rectangle 0.6 X 1.0
+D26 Rectangle 0.6 X 1.0
+D27 Rectangle 0.6 X 1.2
+D28 Rectangle 0.75 X 0.25
+D29 Rectangle 0.8 X 0.3
+D30 Rectangle 0.8 X 0.9
+D31 Rectangle 0.85 X 0.75
+D32 Rectangle 0.85 X 0.75
+D33 Rectangle 0.9 X 0.8
+D34 Rectangle 0.9 X 1.4
+D35 Rectangle 0.9 X 1.5
+D36 Rectangle 0.91 X 1.22
+D37 Rectangle 1.0 X 0.2
+D38 Rectangle 1.0 X 0.4
+D39 Rectangle 1.0 X 0.4
+D40 Rectangle 1.0 X 1.25
+D41 Rectangle 1.22 X 0.91
+D42 Rectangle 1.25 X 1.0
+D43 Rectangle 1.4 X 0.9
+D44 Rectangle 1.45 X 0.65
+D45 Rectangle 1.45 X 0.65
+D46 Rectangle 1.5 X 0.9
+D47 Rectangle 1.6 X 2.5
+D48 Rectangle 1.6 X 4.0
+D49 Rectangle 1.6 X 4.0
+D50 Rectangle 1.7 X 1.2
+D51 Rectangle 2.0 X 2.5
+D52 Rectangle 2.6 X 1.4
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_BottomPattern.gbr
+
+D10 Circle 0.1
+D11 Circle 0.15
+D12 Circle 0.2
+D13 Circle 0.25
+D14 Circle 0.3
+D15 Circle 0.5
+D16 Circle 0.6
+D17 Circle 0.75
+D18 Circle 1.0
+D19 Circle 2.0
+D20 Circle 5.0
+D22 Rectangle 0.9 X 0.8
+D23 Rectangle 0.9 X 0.8
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_BottomSilk.gbr
+
+D10 Circle 0.0
+D11 Circle 0.1
+D12 Circle 0.15
+D13 Circle 0.2
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_BottomSolder.gbr
+
+D10 Circle 0.2
+D11 Circle 0.7
+D12 Circle 0.85
+D13 Circle 1.1
+D14 Circle 2.2
+D15 Circle 5.0
+D17 Rectangle 1.1 X 1.0
+D18 Rectangle 1.1 X 1.0
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_BottomPaste.gbr
+
+D10 Circle 0.2
+D11 Rectangle 0.85 X 0.75
+D12 Rectangle 0.85 X 0.75
+
+-----------------------------------------
+
+EPaper-ESP32-20191031(修正)_Board.gbr
+
+D10 Circle 0.2
+
